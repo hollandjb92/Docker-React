@@ -1,4 +1,3 @@
-language: generic
 sudo: required #super user level permissions required
 services:
   - docker
